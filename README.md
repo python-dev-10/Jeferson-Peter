@@ -5,7 +5,7 @@
 
 
 
-![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&?style=plastic&logo=appveyor&logo=REACT)
+![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&?style=plastic&logo=REACT)
 
 <!--
 **Jeferson-Peter/Jeferson-Peter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
