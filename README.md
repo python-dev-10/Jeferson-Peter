@@ -8,13 +8,13 @@
 ![Badge](https://img.shields.io/static/v1?label=Frameworks&message=React&color=blue&?style=plastic&logo=REACT)
 ![Badge](https://img.shields.io/static/v1?label=Frameworks&message=Django&color=lightGreen&?style=plastic&logo=DJANGO)
 ![Badge](https://img.shields.io/static/v1?label=Frameworks&message=Flask&color=white&?style=plastic&logo=FLASK)
-![Badge](https://img.shields.io/static/v1?label=Frameworks&message=React-Native&color=blue&?style=plastic&logo=REACT-NATIVE)
-![Badge](https://img.shields.io/static/v1?label=Frameworks&message=Django&color=lightGreen&?style=plastic&logo=DJANGO)
-![Badge](https://img.shields.io/static/v1?label=Frameworks&message=Django&color=lightGreen&?style=plastic&logo=DJANGO)
-![Badge](https://img.shields.io/static/v1?label=Frameworks&message=Django&color=lightGreen&?style=plastic&logo=DJANGO)
-![Badge](https://img.shields.io/static/v1?label=Frameworks&message=Django&color=lightGreen&?style=plastic&logo=DJANGO)
-![Badge](https://img.shields.io/static/v1?label=Frameworks&message=Django&color=lightGreen&?style=plastic&logo=DJANGO)
-![Badge](https://img.shields.io/static/v1?label=Frameworks&message=Django&color=lightGreen&?style=plastic&logo=DJANGO)
+![Badge](https://img.shields.io/static/v1?label=Frameworks&message=React-Native&color=blue&?style=plastic&logo=REACTNATIVE)
+![Badge](https://img.shields.io/static/v1?label=OS&message=Windows&color=grey&?style=plastic&logo=WINDOWS)
+![Badge](https://img.shields.io/static/v1?label=OS&message=Django&color=grey&?style=plastic&logo=LINUX)
+![Badge](https://img.shields.io/static/v1?label=MainEditors&message=VS-code&color=lightGreen&?style=plastic&logo=VSCODE)
+![Badge](https://img.shields.io/static/v1?label=MainEditors&message=PyCharm IDEA&color=darkGreen&?style=plastic&logo=PYCHARM)
+![Badge](https://img.shields.io/static/v1?label=MainEditors&message=Intellij IDEA&color=lightpink&?style=plastic&logo=INTELLIJ)
+![Badge](https://img.shields.io/static/v1?label=MainEditors&message=Eclipse&color=orange&?style=plastic&logo=ECLIPSE)
 
 <!--
 **Jeferson-Peter/Jeferson-Peter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
