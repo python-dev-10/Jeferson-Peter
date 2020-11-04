@@ -5,6 +5,7 @@
 
 
 
+![Badge](https://img.shields.io/badge/label=react&message=framework&color=blue&?style=plastic&logo=REACT)
 ![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&?style=plastic&logo=REACT)
 
 <!--
