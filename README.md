@@ -6,7 +6,15 @@
 
 
 ![Badge](https://img.shields.io/static/v1?label=Frameworks&message=React&color=blue&?style=plastic&logo=REACT)
-![Badge](https://img.shields.io/static/v1?label=Frameworks&message=Django&color=blue&?style=plastic&logo=DJANGO)
+![Badge](https://img.shields.io/static/v1?label=Frameworks&message=Django&color=lightGreen&?style=plastic&logo=DJANGO)
+![Badge](https://img.shields.io/static/v1?label=Frameworks&message=Flask&color=white&?style=plastic&logo=FLASK)
+![Badge](https://img.shields.io/static/v1?label=Frameworks&message=React-Native&color=blue&?style=plastic&logo=REACT-NATIVE)
+![Badge](https://img.shields.io/static/v1?label=Frameworks&message=Django&color=lightGreen&?style=plastic&logo=DJANGO)
+![Badge](https://img.shields.io/static/v1?label=Frameworks&message=Django&color=lightGreen&?style=plastic&logo=DJANGO)
+![Badge](https://img.shields.io/static/v1?label=Frameworks&message=Django&color=lightGreen&?style=plastic&logo=DJANGO)
+![Badge](https://img.shields.io/static/v1?label=Frameworks&message=Django&color=lightGreen&?style=plastic&logo=DJANGO)
+![Badge](https://img.shields.io/static/v1?label=Frameworks&message=Django&color=lightGreen&?style=plastic&logo=DJANGO)
+![Badge](https://img.shields.io/static/v1?label=Frameworks&message=Django&color=lightGreen&?style=plastic&logo=DJANGO)
 
 <!--
 **Jeferson-Peter/Jeferson-Peter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
