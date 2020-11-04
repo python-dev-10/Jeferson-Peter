@@ -1,6 +1,11 @@
 ### Hi there 👋
-  I'm Jeferson Peter, a software developer. You may find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkelinkedin.com/in/jeferson-peter-121635196)
+  I'm Jeferson Peter, a software developer. You may find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jeferson-peter-121635196)
 <!--
+
+🔭 I am currently working on two projects, both international projects, and I'm a junior developer at RapidSoft
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+
 **Jeferson-Peter/Jeferson-Peter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
