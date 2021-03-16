@@ -1,4 +1,6 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
 ### Hi there 👋
+
   I'm Jeferson Peter, a software developer. You may find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jeferson-peter-121635196)
 
 🔭 I am currently working on two projects, both international projects, and I'm a junior developer at RapidSoft
@@ -16,6 +18,10 @@
 ![Badge](https://img.shields.io/static/v1?label=MainEditors&message=Intellij-IDEA&color=lightpink&?style=plastic&logo=INTELLIJ)
 ![Badge](https://img.shields.io/static/v1?label=MainEditors&message=Eclipse&color=orange&?style=plastic&logo=ECLIPSE)
 
+---
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" height="80px" width="80px">
+<i class="devicon-flask-original-wordmark"></i>
 
 ---
 
