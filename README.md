@@ -2,13 +2,16 @@
 
 ### Hi there 👋
 
-  I'm Jeferson Peter, a software developer looking to solve real world problems. I'm passionate about technology, trading, criptocurrency and artificial intelligenceand about sharing my knowledge with others. 
+  I'm Jeferson Peter, a software developer looking to solve real world problems. I'm passionate about technology, trading, criptocurrency, artificial intelligence and about sharing my knowledge with others. 
   
 🔭 I am currently working on three personal projects, both international projects. 
 
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;%20Python%20|%20IOT%20|%20DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+
 ## My Skills:
 
-### Programming Languages:
+### Programming Languages | Frameworks:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -40,11 +43,11 @@
   <img align="center" alt="Pycharm" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
   <img align="center" alt="Intellij" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
   <img align="center" alt="WebStorm" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">
+  <img align="center" alt="JetBrains" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg">
+  <img align="center" alt="Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="VsCode" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="VsCode" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Linux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
-
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;IOT%20|DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 
 <div>
   <a href="https://github.com/Jeferson-Peter">
