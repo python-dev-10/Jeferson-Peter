@@ -48,18 +48,24 @@
   <img align="center" alt="VsCode" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Linux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
-
+<br>
 <div>
   <a href="https://github.com/Jeferson-Peter">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jeferson-Peter&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jeferson-Peter&layout=compact&langs_count=8&theme=dracula"/>
 <div>
+  
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
 
 
-Get in touch with me: 
+Get in touch with me:
+  
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jeferson-peter-121635196)
-
-
   
 <!--
 **Jeferson-Peter/Jeferson-Peter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
