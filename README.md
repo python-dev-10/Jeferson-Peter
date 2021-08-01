@@ -72,6 +72,14 @@
 <a target="_blank" href="https://www.behance.net/jefersonpeter2">
   <img align="left" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
 </a>
+  
+<br>
+  
+<div align="center">
+  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Jeferson-Peter)
+
+</div>  
 <!--
 **Jeferson-Peter/Jeferson-Peter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
