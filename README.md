@@ -2,33 +2,50 @@
 
 ### Hi there 👋
 
-  I'm Jeferson Peter, a software developer. I'm passionate about technology, trading, criptocurrency and artificial intelligence. 
+  I'm Jeferson Peter, a software developer looking to solve real world problems. I'm passionate about technology, trading, criptocurrency and artificial intelligenceand about sharing my knowledge with others. 
   
-  Get in touch with me: 
-  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jeferson-peter-121635196)
+🔭 I am currently working on three personal projects, both international projects. 
 
-🔭 I am currently working on two projects, both international projects, and I'm a junior developer at RapidSoft
+## My Skills:
+
+### Programming Languages:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Flask" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img align="center" alt="Django" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+  <img align="center" alt="C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
+
+## Front-End Tools:
+<div style="display: inline_block"><br>
+  <img align="center" alt="JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+
+## Database | Hosting:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Oracle" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Mysql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Heroku" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
+</div>
 
 
+## Software Tools:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Pycharm" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+  <img align="center" alt="Intellij" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+  <img align="center" alt="WebStorm" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">
+  <img align="center" alt="Datagrip" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg">
+  <img align="center" alt="VsCode" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="VsCode" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div>
 
-![Badge](https://img.shields.io/static/v1?label=Frameworks&message=React&color=blue&?style=plastic&logo=REACT)
-![Badge](https://img.shields.io/static/v1?label=Frameworks&message=Django&color=lightGreen&?style=plastic&logo=DJANGO)
-![Badge](https://img.shields.io/static/v1?label=Frameworks&message=Flask&color=white&?style=plastic&logo=FLASK)
-![Badge](https://img.shields.io/static/v1?label=Frameworks&message=React-Native&color=blue&?style=plastic&logo=REACTNATIVE)
-![Badge](https://img.shields.io/static/v1?label=OS&message=Windows&color=grey&?style=plastic&logo=WINDOWS)
-![Badge](https://img.shields.io/static/v1?label=OS&message=Django&color=grey&?style=plastic&logo=LINUX)
-![Badge](https://img.shields.io/static/v1?label=MainEditors&message=VS-code&color=lightGreen&?style=plastic&logo=VScode)
-![Badge](https://img.shields.io/static/v1?label=MainEditors&message=PyCharm-IDEA&color=darkGreen&?style=plastic&logo=PYCHARM)
-![Badge](https://img.shields.io/static/v1?label=MainEditors&message=Intellij-IDEA&color=lightpink&?style=plastic&logo=INTELLIJ)
-![Badge](https://img.shields.io/static/v1?label=MainEditors&message=Eclipse&color=orange&?style=plastic&logo=ECLIPSE)
-
----
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" height="80px" width="80px">
-<i class="devicon-flask-original-wordmark"></i>
-
----
-
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;IOT%20|DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 
 <div>
   <a href="https://github.com/Jeferson-Peter">
@@ -37,6 +54,11 @@
 <div>
 
 
+Get in touch with me: 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jeferson-peter-121635196)
+
+
+  
 <!--
 **Jeferson-Peter/Jeferson-Peter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
