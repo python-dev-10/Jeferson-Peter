@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
 
-### Hi there 👋
+## Hi there 👋
 
   I'm Jeferson Peter, a software developer looking to solve real world problems. I'm passionate about technology, trading, criptocurrency, artificial intelligence and about sharing my knowledge with others. 
   
