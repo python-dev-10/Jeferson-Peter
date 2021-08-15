@@ -21,7 +21,7 @@
   <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-## Front-End Tools:
+### Front-End Tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -30,7 +30,7 @@
   <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-## Database | Hosting:
+### Database | Hosting:
 <div style="display: inline_block"><br>
   <img align="center" alt="Oracle" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Mysql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -38,7 +38,7 @@
 </div>
 
 
-## Software Tools:
+### Software Tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="Pycharm" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
   <img align="center" alt="Intellij" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
