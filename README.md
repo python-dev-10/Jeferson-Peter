@@ -72,7 +72,9 @@
 <a target="_blank" href="https://www.behance.net/jefersonpeter2">
   <img align="left" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
 </a>
-  
+<a target="_blank" href="dsc.bio/jefersonpeter">
+  <img align="left" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>  
 <br>
   
 <div align="center">
