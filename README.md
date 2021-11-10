@@ -6,8 +6,12 @@
   
 🔭 I am currently working on three personal projects, both international projects. 
 
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=%2336BCF7&size=27&vCenter=true&width=500&height=80&lines=Software+Engineer+Student;Python+%7C+IOT+%7C+DS+%7C+AI+%7C+ML+%7C+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
+ </div>
+ 
 ## My Skills:
 
 ### Programming Languages | Frameworks:
