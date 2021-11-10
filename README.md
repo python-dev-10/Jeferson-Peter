@@ -6,8 +6,7 @@
   
 🔭 I am currently working on three personal projects, both international projects. 
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;%20Python%20|%20IOT%20|%20DS%20|%20AI%20|%20ML%20Enthusiast;Always%20Learning%20New%20Things&center=true&width=500&height=50"></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=%2336BCF7&size=27&vCenter=true&width=500&height=80&lines=Software+Engineer+Student;Python+%7C+IOT+%7C+DS+%7C+AI+%7C+ML+%7C+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ## My Skills:
 
